@@ -1,0 +1,494 @@
+﻿<!DOCTYPE html> 
+<html> 
+<head> 
+<meta charset="utf-8" /> 
+<title>欢快轻松滑稽综艺背景音效素材下载_mp3格式_熊猫办公</title> 
+<meta name="keywords" content="欢快轻松滑稽综艺背景音效" /> 
+<meta name="description" content="本模板为欢快轻松滑稽综艺背景音效，尺寸为1*32像素，格式为adobe audition，风格，可用于动画音效演讲展示，文字图片可以直接替换，使用简单方便。" /> 
+<link rel="stylesheet" href="http://static.tukuppt.com/common/css/new-common-v1.4.css" /> 
+<link rel="stylesheet" href="http://static.tukuppt.com/common/css/alert_v1.64.css" />
+
+    <link rel="stylesheet" href="http://static.tukuppt.com/audio/css/audio_v1.css" /> 
+
+
+   <link rel="stylesheet" href="http://static.tukuppt.com/detail/css/new-details.v1.3.css" /> 
+
+<script type="text/javascript">
+      var now=new Date();
+      var startTime=now.getTime();
+      var isLogin =  false;; 
+      var isvip  = 0;
+      var code = "4";
+            var exetime = "0.107";
+      
+      var istuisong = 1;
+
+      var loadtime = 0;
+      var uid = 0;
+      var click_num = 0;
+      var ispay = 0;    </script>
+</head> 
+<body> 
+          <!--统一蒙版-->
+      <div id="mengcheng"></div>
+        <div id='login'>
+    <div class='close'></div>
+    <div class='l-logo'><img src="http://static.tukuppt.com/common/image/login.png" alt="用户登陆logo"></div>
+    <a href="javascript:;" onclick="openLogin('qq')" class='l-qq'><i></i>QQ<span class="loginname">登录</span></a>
+    <a href="javascript:;" onclick="openLogin('wechat')" class='l-wx'><i></i>微信<span class="loginname">登录</span></a>
+    <a href="/about/gvrf" target="_blank" class='l-deal'><input type="checkbox" name="yonghuxieyi" checked="checked">我已阅读并接受《用户协议》</a>
+    <div class="login-tips">QQ和微信是两个独立账号，账号信息不互通</div>
+</div>
+    <!-- 用户立即加入vip -->
+<div class='get-vipintro addvip'>
+    <div class='close'></div>
+    <div class='vip1'><i class='panda1'></i> 开通会员全站免费下载</div> 
+    <a target="_blank" href="/purchase?from=down" class='be-vip'>立即加入</a> 
+</div>
+<!-- 开通vip成功 -->
+<div class='get-vipintro vips vipone'>
+    <div class='close'></div>
+    <div class='vips'><i class='panda2'></i></div> 
+    <a class='suc-vip'>您的一年会员开通成功！</a> 
+</div>
+<div class='get-vipintro viptwo'>
+    <div class='close'></div>
+    <div class='vips'><i class='panda3'></i></div> 
+    <a class='suc-vip'>您的一年会员开通成功！</a> 
+</div>
+<div class='get-vipintro vipthree' style="display:none">
+    <div class='close'></div>
+    <div class='vips'><i class='panda3'></i></div> 
+    <a class='suc-vip'>开通终身VIP成功！</a> 
+</div>
+
+<!-- vip数量用户 -->
+<div class='get-vipintro upvip'>
+    <div class='close'></div>
+    <div class='over'><i class='panda4'></i> 今日下载数已用完</div> 
+    <a target="_blank" href="/purchase?type=1&from=down" class='more-vip'>升级会员</a> 
+</div>
+
+<!--意见反馈-->
+<div class='user-advice'>
+    <div class='close'></div>
+    <textarea class='u-advice' name="content" placeholder="欢迎对熊猫办公提出宝贵的建议或意见,如被采纳有机会获得VIP哦！"></textarea>
+    <input type="text" class='connect' name="contact" placeholder="留下您的联系方式（QQ或者电话）">
+    <div class='submit'>提交</div>
+</div>
+         <div class='headerdiv'>
+  <div class='header'>
+      <div class='wlimit'>        
+      <div class='navs mr0'>
+        <a class='logo' alt="熊猫办公" href="/"></a>
+
+        <div class='allfenl'>
+            <a target="_blank" href="/" title="熊猫办公" class='kuai'>首页</a> 
+            <div class='kuai'>全部分类
+              <em></em>
+              <ul>
+                                    <li><a href="/ppt/" target="_blank">PPT模板</a></li>
+                                    <li><a href="/video/" target="_blank">视频模板</a></li>
+                                    <li><a href="/word/" target="_blank">Word模板</a></li>
+                                    <li><a href="/excel/" target="_blank">Excel表格</a></li>
+                                    <li><a href="/tubiao/" target="_blank">PPT图表</a></li>
+                                    <li><a href="/peitu/" target="_blank">PPT配图</a></li>
+                                    <li><a href="/beijing/" target="_blank">PPT背景</a></li>
+                                    <li><a href="/yinxiao/" target="_blank">音效</a></li>
+                                    <li><a href="/peiyue/" target="_blank">配乐</a></li>
+                              </ul>
+            </div>
+           
+                       <div id='searchdiv'>
+              <div class="search">
+                <div class="s-box">
+                    <input style="display:block;" type="text" id="keyword" key-type="8" autocomplete="off" name="search" class="i-search" placeholder="搜索精品模板">
+                </div>          
+                <div class="s-niu search-btn" key-type="8"><em></em></div>
+                <div id="dropdown-box" class="hot-search" style="display: none;"></div>
+              </div>
+        </div>
+              </div>
+
+        <div class='login'>
+             <!-- 未登录 -->
+                                   <div name="注册" class='regist'>注册</div>
+                   <div name="登录" class='regist-lg'>请登录</div>
+                                         <a style="display:none;" href="/payintroduce?from=top" target="_blank" class='vip-int'><div class='diamond'></div></a>
+                          
+        </div>
+      </div>
+
+  </div>
+</div>
+</div>
+    
+    <!--中部的东西-->
+    
+
+
+<div class='d-daoh'>
+    <div class='wlimit'>
+        <span>
+        <a href="/">首页</a>
+         > <a target="_blank" href="/yinxiao/">音效</a>
+         > <a target="_blank" href="/yinxiao/m103/">动画音效</a>
+                  > <h1 style="font-weight:normal;display:inline-block;">欢快轻松滑稽综艺背景音效</h1>
+        </span> 
+    </div>
+</div>
+
+<div class='middle'>
+    <div class='wlimit'>
+        <div class='m-l' swf = "1"  height="487">
+                   
+                <div class='guangp'>
+                      <i class='guxz'></i>
+                      <i class='dy'></i>
+                      <i class='xy'></i>
+                      <i class='gp audio-stick'></i>
+                </div>
+                <div class='audio-box'>
+                  <i class="icon-bofang"></i>
+                  <audio preload="none" id="audio850995" data-time="92">
+                      <source src="http://img.tukuppt.com/preview_music/00/13/67/preview-5b835ff9bd5eb7224.mp3" type="audio/mpeg">
+                  </audio>
+                  <span class="star-time">00:00</span>
+                  <div class="time-bar">
+                      <span class="progressBar"></span>
+                      <i class="move-color"></i>
+                      <p class="timetip"></p>
+                  </div>
+                  <span class="end-time">01:32</span>
+                </div>
+                         </object>
+
+            
+
+            <p class="picjianjie">
+                本作品内容为欢快轻松滑稽综艺背景音效，
+                格式为 mp3，
+                大小3 MB，
+                                欢迎使用熊猫办公。
+
+                             </p>
+
+            <span style="display:block;" class='copyright'>
+                该资源来自用户分享，如果损害了你的权利，请联系网站客服处理
+            </span>
+        </div>
+        <div class='m-r'>
+            <div class='piao'>
+                <div class='mould1  '>
+                    <span style="display:block;" pid="qmnownov" class='d-down'><i></i>下载清晰无广告声音文件</span>
+                    <span style="display:block;" pid="qmnownov" class='d-coll' isfrom="1" issc="0">
+                        <i ></i>
+                        <span>收藏</span>
+                    </span>
+
+                    
+                    <div class='d-msg ' >
+                                                    <span class='d-view' title="浏览"><i class='view-num'></i>9362</span>
+                            <span class='d-view' title="下载"><i class='down-num'></i>669</span>
+                            <span class='d-view' title="收藏"><i class='coll-num'></i>318</span>
+                                            </div>
+                </div>
+                <div class='mould2' >
+                    <ul>
+                        <li>
+                            <span class='m-l2'>模板评分：</span>
+                            <span class='m-r2'>
+                                                                <img src="http://static.tukuppt.com/detail/image/wujiaoxing-shi.png">
+                                                                <img src="http://static.tukuppt.com/detail/image/wujiaoxing-shi.png">
+                                                                <img src="http://static.tukuppt.com/detail/image/wujiaoxing-shi.png">
+                                                                <img src="http://static.tukuppt.com/detail/image/wujiaoxing-shi.png">
+                                                                <img src="http://static.tukuppt.com/detail/image/wujiaoxing-shi.png">
+                                                            </span>
+                        </li>
+
+                                                 <li>
+                             <span class='m-l2'>软件： </span>
+                            <span class='m-r2'>Adobe Audition</span>
+                        </li>
+                        
+                         <li>
+                             <span class='m-l2'>格式：</span>
+                            <span class='m-r2'>mp3</span>
+                        </li>
+                         <li>
+                             <span class='m-l2'>大小： </span>
+                            <span class='m-r2'>  3 MB</span>
+                        </li>
+
+                                                <li>
+                             <span class='m-l2'>提供者： </span>
+                            <span class='m-r2'>十八岁、夏至</span>
+                        </li>
+                                            </ul>
+                </div>
+            <div class='mould3'></div>
+                        <div class='mould4'>
+                <span style="display:block;" class="m-about">相关搜索</span>
+                <ul>
+                                        <li><a target="_blank" href="/yinxiaomuban/beijingyinle.html">背景音乐</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/beijing.html">背景</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/qingsong.html">轻松</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/zongyijiemu.html">综艺节目</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/beijingle.html">背景乐</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/qingsonghuankuai.html">轻松欢快</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/huankuaideyinle.html">欢快的音乐</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/zongyi.html">综艺</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/youxibeijing.html">游戏背景</a></li>
+                                        <li><a target="_blank" href="/yinxiaomuban/huankuaiyinle.html">欢快音乐</a></li>
+                                    </ul>
+            </div>
+                    </div>
+        </div>
+    </div>
+</div>
+
+
+<div class='you-like'>
+    <div class='wlimit'>
+        <div class='y-title'>您可能会喜欢的其他模板</div>
+
+            
+            <div class='b-box'>
+                 
+                    <div data-id="lnyzjozn" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/lnyzjozn.html">欢快轻松滑稽广告背景音效</a>
+                <a target="_blank" href="/muban/lnyzjozn.html" class='down'><i></i>下载</a>
+        <a pid="lnyzjozn" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="145">
+        <source src="http://img.tukuppt.com/preview_music/00/13/76/preview-5b83600e8b5443796.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">02:25</span>
+
+    </div> 
+                 
+                    <div data-id="loedmedd" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/loedmedd.html">欢快轻松的综艺片背景音效</a>
+                <a target="_blank" href="/muban/loedmedd.html" class='down'><i></i>下载</a>
+        <a pid="loedmedd" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="94">
+        <source src="http://img.tukuppt.com/preview_music/00/13/67/preview-5b835ff9c6d20745.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">01:34</span>
+
+    </div> 
+                 
+                    <div data-id="qawkmeze" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/qawkmeze.html">欢快轻松的综艺游戏音效</a>
+                <a target="_blank" href="/muban/qawkmeze.html" class='down'><i></i>下载</a>
+        <a pid="qawkmeze" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="5">
+        <source src="http://img.tukuppt.com/origin_music/00/12/88/pd-5b7a55544c43d12.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">00:05</span>
+
+    </div> 
+                 
+                    <div data-id="lwporpry" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/lwporpry.html">滑稽搞笑的综艺背景音效</a>
+                <a target="_blank" href="/muban/lwporpry.html" class='down'><i></i>下载</a>
+        <a pid="lwporpry" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="101">
+        <source src="http://img.tukuppt.com/preview_music/00/13/72/preview-5b836003916d39040.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">01:41</span>
+
+    </div> 
+                 
+                    <div data-id="loedmenp" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/loedmenp.html">轻快放松综艺背景音效</a>
+                <a target="_blank" href="/muban/loedmenp.html" class='down'><i></i>下载</a>
+        <a pid="loedmenp" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="149">
+        <source src="http://img.tukuppt.com/preview_music/00/13/72/preview-5b83600420ea98695.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">02:29</span>
+
+    </div> 
+                 
+                    <div data-id="qpepokdo" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/qpepokdo.html">欢快轻松的综艺片背景音效素材</a>
+                <a target="_blank" href="/muban/qpepokdo.html" class='down'><i></i>下载</a>
+        <a pid="qpepokdo" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="16">
+        <source src="http://img.tukuppt.com/preview_music/00/14/24/preview-5b83602fafa157556.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">00:16</span>
+
+    </div> 
+                 
+                    <div data-id="qgamxymb" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/qgamxymb.html">滑稽可爱综艺转场背景音效</a>
+                <a target="_blank" href="/muban/qgamxymb.html" class='down'><i></i>下载</a>
+        <a pid="qgamxymb" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="4">
+        <source src="http://img.tukuppt.com/origin_music/00/14/12/pd-5b7a4902c7644647.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">00:04</span>
+
+    </div> 
+                 
+                    <div data-id="qrgpnkom" class='cbox audio-box '>
+    <i class="icon-bofang"></i>
+    <div class='info'>
+        <a  class='title' target="_blank" href="/muban/qrgpnkom.html">欢快轻松节奏转场音效</a>
+                <a target="_blank" href="/muban/qrgpnkom.html" class='down'><i></i>下载</a>
+        <a pid="qrgpnkom" class='collect b-collect ' isfrom="3" issc="0"></a>
+            </div>
+    <audio preload="none" id="audio850995" data-time="9">
+        <source src="http://img.tukuppt.com/origin_music/00/13/87/pd-5b7a5c368622a267.mp3" type="audio/mpeg">
+    </audio>
+    <span class="star-time">00:00</span>
+    <div class="time-bar">
+        <span class="progressBar"></span>
+        <i class="move-color"></i>
+        <p class="timetip"></p>
+    </div>
+    <span class="end-time">00:09</span>
+
+    </div> 
+                            </div> 
+            </div>
+</div>
+
+
+
+
+    <!--尾部按键-->
+    <div class='footer'>
+     <div class='footer1'>
+        <div class='user-say'>
+            <span class='box'><i class='i-1'></i>价格优惠</span>
+            <span class='box'><i class='i-2'></i>致臻精品</span>
+            <span class='box'><i class='i-3'></i>高质售后</span>
+            <span class='box'><i class='i-4'></i>100%满意</span>
+            <span class='box1'><i class='i-5'></i>提升效率</span>
+        </div>
+    </div>
+    <div class='footer2'>
+        <div class='wlimit'>
+            <div class='footer-logo'></div>
+            <div class='company-say'> 
+                <div class="statements">
+                    <a rel="nofollow" href="/" target="_blank">熊猫办公</a>
+                    <a rel="nofollow" href="/about/aboutus" target="_blank">关于我们</a><span>|</span>
+                    <a rel="nofollow" href="/about/gvrf" target="_blank">注册协议</a><span>|</span>
+                    <a rel="nofollow" href="/pro/copyright" target="_blank">版权声明</a><span>|</span>
+                    <a rel="nofollow" href="/about/help" target="_blank">PPT教程</a><span>|</span>
+                                      <a rel="nofollow" href="/about/settlecontrac" target="_blank">入驻签约</a>
+                </div>
+                <div class="copyrights">
+                    <a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow"><i class="lazy gov-icon gov-icon-icp" data-original="http://static.tukuppt.com/common/image/govemblem.png"></i><span>沪ICP备17039466号</span></a>
+                    <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402005121" target="_blank" rel="nofollow"><i class="lazy gov-icon gov-icon-wa" data-original="http://static.tukuppt.com/common/image/govemblem.png"></i><span>沪公网安备 31010402005121号</span></a>
+                    <span class="tukuppt-right">熊猫办公-Copyright © 2018 版权所有</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- 侧边栏 -->
+<div class='cbl'>
+  
+  <div id="back-top">
+     <div class='userqq'>
+     <a href="http://q.url.cn/cdUM4o?_type=wpa&qidian=true" target="_blank" class="bg-b">
+         <i class="ty qq"></i>
+     </a> 
+     <div class='userqqtipw'>
+         <div class='userqqtip'>
+            <div class="inner"></div>
+            <a href="http://q.url.cn/cdUM4o?_type=wpa&qidian=true" target="_blank" class='clickqq'>点击咨询</a>
+            <div  class='qqtime'>在线时间：9:30-21:00</div>
+         </div>
+     </div>
+    </div>
+     <div class='lines'></div>
+     <a target="_blank" href="http://www.tukuppt.com/payintroduce?from=leftbutton" class="bg-b">
+         <i class='ty huiyuan'></i>
+     </a>
+     <div class='lines'></div>
+     <a href="javascript:;" class="bg-b"><i class='ty  advice'></i></a> 
+     <div class='lines'></div>
+     <a href="javascript:;" class="bg-b"><i class='ty return-top'></i></a> 
+  </div>
+  </div>
+
+    <script src="http://static.tukuppt.com/!!index/js/jquery-1.7.1.min.js,common/js/lazyload.min.js"></script>
+    <script src="http://static.tukuppt.com/common/js/common-v3.6.4.js"></script>
+
+      <script src="http://static.tukuppt.com/audio/js/audio.js"></script>
+  <script src="http://static.tukuppt.com/lib/store.legacy.min.js"></script>
+  
+
+  <script src="http://static.tukuppt.com/detail/js/new-detail-v1.2.js"></script>
+
+</body> 
+</html> 
