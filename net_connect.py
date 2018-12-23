@@ -1,5 +1,5 @@
 import requests
-import based64
+import base64
 
 
 def check_net():
@@ -37,6 +37,3 @@ def deal_net():
         result = login(u, d, p)
         return result.content.decode('unicode-escape')
 
-
-if __name__ == '__main__':
-    print(deal_net())
